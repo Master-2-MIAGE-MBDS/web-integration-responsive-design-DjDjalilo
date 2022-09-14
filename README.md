@@ -1,10 +1,10 @@
 # TP1 HTML/CSS
 
-NOM : MOUSSA BOUDJEMAA
+**NOM : MOUSSA BOUDJEMAA**
 
-PRENOM : Mehdi Djalil
+**PRENOM : Mehdi Djalil**
 
-Note : 
+NB : 
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) Represante les zones/parties qui utilisent un Grid Layout.
 
